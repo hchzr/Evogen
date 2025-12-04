@@ -1,0 +1,5 @@
+{
+  "name": "EvoGen Simulator",
+  "description": "Un simulateur interactif d'évolution génétique des populations pour visualiser la dérive, la sélection naturelle et l'équilibre de Hardy-Weinberg.",
+  "requestFramePermissions": []
+}
